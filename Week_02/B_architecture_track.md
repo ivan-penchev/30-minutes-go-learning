@@ -7,6 +7,10 @@
 
 ## Week 2
 
+---
+NB: Something is rotten in the state of Main, can you figure out what is the issue?
+---
+
 | Topic | Link |
 | ----------- | ----------- |
 | Clean Architecture | [blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html](https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html) |
